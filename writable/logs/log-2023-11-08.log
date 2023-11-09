@@ -1,0 +1,326 @@
+CRITICAL - 2023-11-08 12:43:13 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 12:45:58 --> Invalid file: "codeigniter4/public/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('codeigniter4/public/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('codeigniter4/public/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('codeigniter4/public/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 12:46:55 --> Invalid file: "codeigniter4/public/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('codeigniter4/public/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('codeigniter4/public/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('codeigniter4/public/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 12:47:06 --> Invalid file: "codeigniter4/public/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('codeigniter4/public/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('codeigniter4/public/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('codeigniter4/public/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 12:48:32 --> Invalid file: "codeigniter4/public/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('codeigniter4/public/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('codeigniter4/public/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('codeigniter4/public/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 12:59:37 --> Invalid file: "codeigniter4/public/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('codeigniter4/public/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('codeigniter4/public/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(12): view('codeigniter4/public/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 12:59:57 --> Invalid file: "codeigniter4/public/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('codeigniter4/public/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('codeigniter4/public/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(12): view('codeigniter4/public/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:01:14 --> Invalid file: "codeigniter4/public/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('codeigniter4/public/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('codeigniter4/public/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(12): view('codeigniter4/public/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:02:19 --> Invalid file: "/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:02:33 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:03:18 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:03:23 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:03:29 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:03:49 --> Invalid file: "codeigniter4/public/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('codeigniter4/public/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('codeigniter4/public/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(12): view('codeigniter4/public/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:04:01 --> Invalid file: "/codeigniter4/public/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/codeigniter4/public/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('/codeigniter4/public/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(12): view('/codeigniter4/public/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:04:08 --> Invalid file: "/codeigniter4/public/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/codeigniter4/public/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('/codeigniter4/public/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(12): view('/codeigniter4/public/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:06:11 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:07:14 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:11:00 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:11:04 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:12:43 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:13:45 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:30:49 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:30:59 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:31:54 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:32:14 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:32:55 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:33:06 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:33:34 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(11): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:35:29 --> Invalid file: "/codeigniter4/public/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/codeigniter4/public/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('/codeigniter4/public/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(14): view('/codeigniter4/public/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:35:42 --> Invalid file: "/public/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/public/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('/public/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(14): view('/public/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:35:57 --> Invalid file: "/pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('/pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(14): view('/pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:36:05 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(14): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 13:36:11 --> Invalid file: "pelicula/new.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula/new.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula/new', [], true)
+ 3 APPPATH\Controllers\pelicula.php(14): view('pelicula/new')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\pelicula->new()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 19:06:33 --> syntax error, unexpected 'public' (T_PUBLIC)
+in APPPATH\Controllers\pelicula.php on line 22.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Pelicula.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Pelicula')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Pelicula')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Pelicula')
+ 5 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\Pelicula', true)
+ 6 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 19:06:36 --> syntax error, unexpected 'public' (T_PUBLIC)
+in APPPATH\Controllers\pelicula.php on line 22.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Pelicula.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Pelicula')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Pelicula')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Pelicula')
+ 5 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\Pelicula', true)
+ 6 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

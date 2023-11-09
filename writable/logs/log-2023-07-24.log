@@ -1,0 +1,139 @@
+CRITICAL - 2023-07-24 14:33:38 --> syntax error, unexpected '$', expecting variable (T_VARIABLE)
+in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Home')
+ 5 SYSTEMPATH\CodeIgniter.php(890): class_exists('\\App\\Controllers\\Home', true)
+ 6 SYSTEMPATH\CodeIgniter.php(484): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 14:40:31 --> A non-numeric value encountered
+in APPPATH\Controllers\Home.php on line 16.
+ 1 APPPATH\Controllers\Home.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric value encountered', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Home.php', 16, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->update('cesar', 'campos')
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 16:16:06 --> Invalid file: "pelicula.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pelicula.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pelicula', [], true)
+ 3 APPPATH\Controllers\Pelicula.php(10): view('pelicula')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 16:28:56 --> Use of undefined constant nombreVariableVista - assumed 'nombreVariableVista' (this will throw an Error in a future version of PHP)
+in APPPATH\Views\index.php on line 11.
+ 1 APPPATH\Views\index.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant nombreVariableVista - assumed \'nombreVariableVista\' (this will throw an Error in a future version of PHP)', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\index.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Pelicula.php(11): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 16:30:03 --> Use of undefined constant nombreVariableVista - assumed 'nombreVariableVista' (this will throw an Error in a future version of PHP)
+in APPPATH\Views\index.php on line 11.
+ 1 APPPATH\Views\index.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant nombreVariableVista - assumed \'nombreVariableVista\' (this will throw an Error in a future version of PHP)', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\index.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Pelicula.php(11): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 16:34:43 --> syntax error, unexpected '$array1' (T_VARIABLE)
+in APPPATH\Views\index.php on line 11.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 3 APPPATH\Controllers\Pelicula.php(11): view('index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 16:44:12 --> Use of undefined constant nombreVariableVista - assumed 'nombreVariableVista' (this will throw an Error in a future version of PHP)
+in APPPATH\Views\index.php on line 11.
+ 1 APPPATH\Views\index.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant nombreVariableVista - assumed \'nombreVariableVista\' (this will throw an Error in a future version of PHP)', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\index.php', 11, [...])
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('index', [], true)
+ 5 APPPATH\Controllers\Pelicula.php(10): view('index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 20:43:46 --> Class 'App\Controllers\PeliculaModel' not found
+in APPPATH\Controllers\Pelicula.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 20:43:51 --> Class 'App\Controllers\PeliculaModel' not found
+in APPPATH\Controllers\Pelicula.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 20:50:22 --> Class 'App\Controllers\PeliculaModel' not found
+in APPPATH\Controllers\Pelicula.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-24 20:50:31 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\codeigniter4\app\Controllers\Pelicula.php(13): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\codeigniter4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\codeigniter4\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Pelicula.php(13): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-24 20:50:31 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `peliculas`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Pelicula.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 20:51:22 --> Class 'App\Controllers\PeliculaModel' not found
+in APPPATH\Controllers\Pelicula.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 20:55:42 --> Class 'App\Controllers\PeliculaModel' not found
+in APPPATH\Controllers\Pelicula.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Pelicula->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelicula))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
