@@ -11,4 +11,4 @@
   </body>
 </html>
 
-<?php echo 'prueba de git' ?>
+<?php echo 'pruebas con checkout de git' ?>
