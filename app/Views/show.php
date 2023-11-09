@@ -11,4 +11,4 @@
   </body>
 </html>
 
-<?php echo 'pruebas con checkout de git haciendo commit sin hacer add' ?>
+<?php echo 'Creando rama2' ?>
