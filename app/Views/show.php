@@ -10,3 +10,5 @@
     <p> <?= $peliculas['descripcion'] ?> </p>
   </body>
 </html>
+
+<?php echo 'prueba de git' ?>
